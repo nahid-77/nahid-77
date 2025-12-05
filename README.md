@@ -5,10 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="900">
-</p>
-
 # 👨‍💻 **About Me**
 
 Hi! I’m **Nahid Hosen Tuhin**, a passionate **MERN Stack & Frontend Developer** who loves creating  
@@ -108,6 +104,3 @@ I'm constantly improving my skills — from UI/UX to full-stack engineering and 
 
 <h2 align="center">✨ “The best code is written with clarity, passion, and purpose.” ✨</h2>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="900">
-</p>
